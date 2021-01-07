@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337356773473",
+    "project_id": "cargaspoint-8023d",
+    "storage_bucket": "cargaspoint-8023d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337356773473:android:33c0336f3e8fd1cc7a7220",
+        "android_client_info": {
+          "package_name": "com.codeaamy.cargaspoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337356773473-hledpguhlbp33e1t2c4uqs3i0tmvf3p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsnW7Ebn_SE7sHuuvTt0Jg5Z6afGem0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337356773473-hledpguhlbp33e1t2c4uqs3i0tmvf3p4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337356773473-9jp7fekai5olkrmau3l8n2itrbksushk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codeaamy.cargaspoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
